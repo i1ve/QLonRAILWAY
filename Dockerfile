@@ -1,5 +1,4 @@
 FROM whyour/qinglong:latest
-FROM whyour/qinglong:latest
 
 WORKDIR /ql
 
